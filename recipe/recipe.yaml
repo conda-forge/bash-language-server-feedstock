@@ -1,5 +1,5 @@
 context:
-  version: 5.4.0
+  version: "5.4.3"
 
 package:
   name: bash-language-server
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/bash-language-server/-/bash-language-server-${{ version }}.tgz
-  sha256: 398971fee90b72014d72ca63b163e8f19d3c7db9528de8e43075c2ffa579b7b2
+  sha256: bf47e3b983a68e753953394d8ce2b98982af910b41c89d9f4ff5a4dcd077088d
 
 build:
   number: 0
